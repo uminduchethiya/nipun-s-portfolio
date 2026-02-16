@@ -22,3 +22,6 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Don't ignore dist folder - Netlify needs it
+# /dist
